@@ -1,10 +1,6 @@
 
 package model;
 
-/**
- *
- * @author Yovany
- */
 public class Museo {
     private int mu_id;
     private String mu_nombre;
